@@ -10,8 +10,4 @@ This repository is coined to manage codes about obstacle-detection or in another
 ```bash
 sudo test
 ```
-$$
-
-x_i^2 + y_i^3 = z^3
-
-$$
+$ x_i^2 + y_i^3 = z^3 $
